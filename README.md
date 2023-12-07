@@ -13,4 +13,4 @@ Software Engineer Student
 
 <h2> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f56f.png?v8" width="26"> AoC 2023 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f56f.png?v8" width="26"> </h2> 
 
-![](https://img.shields.io/badge/day%20📅-6-blue) ![](https://img.shields.io/badge/days%20completed-6-red) ![](https://img.shields.io/badge/stars%20⭐-12-yellow)
+![](https://img.shields.io/badge/day%20📅-7-blue) ![](https://img.shields.io/badge/days%20completed-6-red) ![](https://img.shields.io/badge/stars%20⭐-12-yellow)
