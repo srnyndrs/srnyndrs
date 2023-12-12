@@ -20,7 +20,7 @@ Computer Engineer Student
 
 <h3> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f56f.png?v8" width="18"> AoC 2023 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f56f.png?v8" width="18"> </h3> 
 
-![](https://img.shields.io/badge/day%20📅-11-blue) ![](https://img.shields.io/badge/days%20completed-10-red) ![](https://img.shields.io/badge/stars%20⭐-20-yellow)
+![](https://img.shields.io/badge/day%20📅-12-blue) ![](https://img.shields.io/badge/days%20completed-11-red) ![](https://img.shields.io/badge/stars%20⭐-22-yellow)
 
 ### Socials
 
