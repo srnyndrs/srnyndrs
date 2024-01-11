@@ -6,7 +6,7 @@ Computer Engineer Student
 
 *   🌍  I'm based in Budapest
 *   👨‍🎓  I'm a student at Budapest University of Technology and Economics
-*   🖥️  See my portfolio [here](http://www.linkedin.com/in/suranyi-andras/)
+*   🖥️  See my portfolio [here](http://srnyndrs.github.io/)
 
 ### Skills 
 <p align="left">
