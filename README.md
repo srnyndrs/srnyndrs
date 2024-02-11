@@ -1,12 +1,13 @@
 Hi 👋 My name is András Surányi
 ===============================
 
-Computer Engineer Student
+Computer Engineer Graduate
 -------------------------
 
 *   🌍  I'm based in Budapest
-*   👨‍🎓  I'm a student at Budapest University of Technology and Economics
+*   👨‍🎓  I have graduated at Budapest University of Technology and Economics
 *   🖥️  See my portfolio [here](http://srnyndrs.github.io/)
+*   🧠  I'm currently learning React
 
 ### Skills 
 <p align="left">
