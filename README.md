@@ -7,7 +7,6 @@ Computer Engineer Graduate
 *   🌍  I'm based in Budapest
 *   👨‍🎓  I have graduated at Budapest University of Technology and Economics
 *   🖥️  See my portfolio [here](http://srnyndrs.github.io/)
-*   🧠  I'm currently learning React
 
 ### Skills 
 <p align="left">
