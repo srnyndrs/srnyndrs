@@ -64,7 +64,7 @@ Computer Engineer Graduate
 
 <h3> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f56f.png?v8" width="18"> AoC 2024 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f56f.png?v8" width="18"> </h3> 
 
-![](https://img.shields.io/badge/day%20📅-5-blue) ![](https://img.shields.io/badge/days%20completed-4-red) ![](https://img.shields.io/badge/stars%20⭐-8-yellow)
+![](https://img.shields.io/badge/day%20📅-6-blue) ![](https://img.shields.io/badge/days%20completed-5-red) ![](https://img.shields.io/badge/stars%20⭐-10-yellow)
 
 ### Socials
 
