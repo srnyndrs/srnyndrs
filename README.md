@@ -1,18 +1,12 @@
 Hi 👋 My name is András Surányi
 ===============================
 
-Computer Engineer Graduate
--------------------------
-
 *   🌍  I'm based in Budapest
-*   🌱  I'm currently improving my skills
 *   👨‍🎓  I have graduated at Budapest University of Technology and Economics
 *   🖥️  See my portfolio [here](http://srnyndrs.github.io/)
 
 ### Skills
 <table><tr><td valign="top" width="33%">
-
-
 
 #### Frontend  
 <div align="center">  
@@ -61,10 +55,6 @@ Computer Engineer Graduate
 ![](https://raw.githubusercontent.com/srnyndrs/stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/srnyndrs/stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/srnyndrs/stats/master/generated/languages.svg#gh-light-mode-only) 
-
-<h3> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f56f.png?v8" width="18"> AoC 2024 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f56f.png?v8" width="18"> </h3> 
-
-![](https://img.shields.io/badge/day%20📅-14-blue) ![](https://img.shields.io/badge/days%20completed-7-red) ![](https://img.shields.io/badge/stars%20⭐-15-yellow)
 
 ### Socials
 
