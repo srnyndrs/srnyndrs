@@ -1,11 +1,11 @@
-An MSc student in Computer Engineering, passionate about mobile and full-stack development. Started Android development through university projects in 2022, and since then have been improving my skills with Kotlin, Jetpack Compose, and Clean Architecture.
+MSc Computer Engineering student passionate about mobile and full-stack development, with a focus on building cloud-integrated applications.
 
 Currently busy with being:
 
-- **Software Engineer Intern** – working on full-stack projects using Python and React, while also gaining experience in AWS, CI/CD pipelines, and Infrastructure as Code (IaC)
+- **Software Engineer Intern** – working on enterprise B2B projects using Python and React, while managing AWS infrastructure and CI/CD pipelines
 
-- **Intermediate Android developer**, building university projects to sharpen my skills
+- **Android Developer** - sharpening my skills with Kotlin, Jetpack Compose, and Clean Architecture through modern mobile projects
 
-- **Enthusiast of user-centered applications** that make everyday life easier
+- **Open to Opportunities** – seeking my next my next role in Software Engineering
 
 Find me on [LinkedIn](https://www.linkedin.com/in/suranyi-andras) or check out my [Portfolio](http://srnyndrs.github.io/).
